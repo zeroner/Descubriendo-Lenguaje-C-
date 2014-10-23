@@ -1,0 +1,6 @@
+c:\users\yazir\documents\visual studio 2012\Projects\PrimerProyectoSaludo\PrimerProyectoSaludo\bin\Debug\PrimerProyectoSaludo.exe.config
+c:\users\yazir\documents\visual studio 2012\Projects\PrimerProyectoSaludo\PrimerProyectoSaludo\bin\Debug\PrimerProyectoSaludo.exe
+c:\users\yazir\documents\visual studio 2012\Projects\PrimerProyectoSaludo\PrimerProyectoSaludo\bin\Debug\PrimerProyectoSaludo.pdb
+c:\users\yazir\documents\visual studio 2012\Projects\PrimerProyectoSaludo\PrimerProyectoSaludo\obj\Debug\PrimerProyectoSaludo.csprojResolveAssemblyReference.cache
+c:\users\yazir\documents\visual studio 2012\Projects\PrimerProyectoSaludo\PrimerProyectoSaludo\obj\Debug\PrimerProyectoSaludo.exe
+c:\users\yazir\documents\visual studio 2012\Projects\PrimerProyectoSaludo\PrimerProyectoSaludo\obj\Debug\PrimerProyectoSaludo.pdb

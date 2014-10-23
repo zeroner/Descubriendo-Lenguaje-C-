@@ -1,0 +1,5 @@
+c:\users\yazir\documents\visual studio 2012\Projects\PrimerPracticaSaludo2\PrimerPracticaSaludo2\bin\Debug\PrimerPracticaSaludo2.exe.config
+c:\users\yazir\documents\visual studio 2012\Projects\PrimerPracticaSaludo2\PrimerPracticaSaludo2\bin\Debug\PrimerPracticaSaludo2.exe
+c:\users\yazir\documents\visual studio 2012\Projects\PrimerPracticaSaludo2\PrimerPracticaSaludo2\bin\Debug\PrimerPracticaSaludo2.pdb
+c:\users\yazir\documents\visual studio 2012\Projects\PrimerPracticaSaludo2\PrimerPracticaSaludo2\obj\Debug\PrimerPracticaSaludo2.exe
+c:\users\yazir\documents\visual studio 2012\Projects\PrimerPracticaSaludo2\PrimerPracticaSaludo2\obj\Debug\PrimerPracticaSaludo2.pdb

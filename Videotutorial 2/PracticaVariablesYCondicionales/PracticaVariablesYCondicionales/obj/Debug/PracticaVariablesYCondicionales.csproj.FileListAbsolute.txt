@@ -1,0 +1,11 @@
+c:\users\yazir\documents\visual studio 2012\Projects\PracticaVariablesYCondicionales\PracticaVariablesYCondicionales\bin\Debug\PracticaVariablesYCondicionales.exe.config
+c:\users\yazir\documents\visual studio 2012\Projects\PracticaVariablesYCondicionales\PracticaVariablesYCondicionales\bin\Debug\PracticaVariablesYCondicionales.exe
+c:\users\yazir\documents\visual studio 2012\Projects\PracticaVariablesYCondicionales\PracticaVariablesYCondicionales\bin\Debug\PracticaVariablesYCondicionales.pdb
+c:\users\yazir\documents\visual studio 2012\Projects\PracticaVariablesYCondicionales\PracticaVariablesYCondicionales\obj\Debug\PracticaVariablesYCondicionales.exe
+c:\users\yazir\documents\visual studio 2012\Projects\PracticaVariablesYCondicionales\PracticaVariablesYCondicionales\obj\Debug\PracticaVariablesYCondicionales.pdb
+C:\Users\Yazir\Documents\GitHub\Descubriendo-Lenguaje-C-\Videotutorial 2\PracticaVariablesYCondicionales\PracticaVariablesYCondicionales\bin\Debug\PracticaVariablesYCondicionales.exe.config
+C:\Users\Yazir\Documents\GitHub\Descubriendo-Lenguaje-C-\Videotutorial 2\PracticaVariablesYCondicionales\PracticaVariablesYCondicionales\obj\Debug\PracticaVariablesYCondicionales.exe
+C:\Users\Yazir\Documents\GitHub\Descubriendo-Lenguaje-C-\Videotutorial 2\PracticaVariablesYCondicionales\PracticaVariablesYCondicionales\obj\Debug\PracticaVariablesYCondicionales.pdb
+C:\Users\Yazir\Documents\GitHub\Descubriendo-Lenguaje-C-\Videotutorial 2\PracticaVariablesYCondicionales\PracticaVariablesYCondicionales\bin\Debug\PracticaVariablesYCondicionales.exe
+C:\Users\Yazir\Documents\GitHub\Descubriendo-Lenguaje-C-\Videotutorial 2\PracticaVariablesYCondicionales\PracticaVariablesYCondicionales\bin\Debug\PracticaVariablesYCondicionales.pdb
+C:\Users\Yazir\Documents\GitHub\Descubriendo-Lenguaje-C-\Videotutorial 2\PracticaVariablesYCondicionales\PracticaVariablesYCondicionales\obj\Debug\PracticaVariablesYCondicionales.csprojResolveAssemblyReference.cache

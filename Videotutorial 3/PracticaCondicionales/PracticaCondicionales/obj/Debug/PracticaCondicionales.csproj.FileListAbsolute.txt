@@ -1,0 +1,5 @@
+c:\users\yazir\documents\visual studio 2012\Projects\PracticaCondicionales\PracticaCondicionales\bin\Debug\PracticaCondicionales.exe.config
+c:\users\yazir\documents\visual studio 2012\Projects\PracticaCondicionales\PracticaCondicionales\bin\Debug\PracticaCondicionales.exe
+c:\users\yazir\documents\visual studio 2012\Projects\PracticaCondicionales\PracticaCondicionales\bin\Debug\PracticaCondicionales.pdb
+c:\users\yazir\documents\visual studio 2012\Projects\PracticaCondicionales\PracticaCondicionales\obj\Debug\PracticaCondicionales.exe
+c:\users\yazir\documents\visual studio 2012\Projects\PracticaCondicionales\PracticaCondicionales\obj\Debug\PracticaCondicionales.pdb
